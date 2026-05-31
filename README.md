@@ -12,8 +12,7 @@ A Python turtle graphics animation that creates and displays a heart shape using
 - Turtle Graphics
 - Math module
   
-  ## Preview
-![Heart Animation](Heart_animination.py.png)
+
 
 ## How to Run
 1. Install Python

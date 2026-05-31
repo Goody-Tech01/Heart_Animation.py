@@ -12,12 +12,14 @@ A Python turtle graphics animation that creates and displays a heart shape using
 - Turtle Graphics
 - Math module
   
-
-
 ## How to Run
 1. Install Python
 2. Run:
    python heart_animation.py
 
+## Preview
+
+![Heart Animation](Heart_animation.png)
+
 ## Author
-Odion Goodness (Goody-Tech01)
+Odion Goodness osadebah (Goody-Tech01)
